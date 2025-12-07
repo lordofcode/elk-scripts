@@ -47,5 +47,5 @@ GET /_tasks?actions=indices:admin/forcemerge&detailed=true
 When processing is finished the result is:
 
 ```
-{\"nodes\":{}}
+{"nodes":{}}
 ```
